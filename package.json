@@ -1,0 +1,19 @@
+{
+  "name": "splitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeSmC06/splitter.git",
+  "author": "Tom Ding <dingpeng06@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3"
+  }
+}
